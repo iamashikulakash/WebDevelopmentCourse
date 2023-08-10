@@ -1,0 +1,2 @@
+# WebDevelopmentCourse
+AREA COVERED-> HTML, CSS, JAVA SCRIPT, PHP, MYSQL
